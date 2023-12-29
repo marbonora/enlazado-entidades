@@ -1,0 +1,5 @@
+,distancia,num_filas,casos_positivos,aciertos_positivos,falsos_positivos,casos_negativos,aciertos_negativos,falsos_negativos,fallos
+0,1,152,52,0,0,100,100,52,0
+1,0.95,152,52,10,6,100,94,42,0
+2,0.9,152,52,38,41,100,59,14,0
+3,0.85,152,52,48,68,100,32,4,0
