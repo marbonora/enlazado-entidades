@@ -14,4 +14,5 @@ Este proyecto contiene el desarrollo del Trabajo de Fin de Master “Enlazado de
     - TF-IDF
     - BERT
     - BERT Fine-Tuning
+    - DistilBERT Fine-Tuning
 - Los archivos de entrada y salida de los mismos. 
